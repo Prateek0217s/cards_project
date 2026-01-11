@@ -12,7 +12,7 @@ React.js
 
 JavaScript (ES6+)
 
-CSS / Tailwind CSS (optional)
+CSS
 
 Responsive Design Principles
 
