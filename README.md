@@ -1,16 +1,20 @@
-# React + Vite
+📌 Project Description: Job Cards UI using React.js
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project focuses on building a dynamic and reusable card-based user interface using React.js to display job listings in a modern and responsive layout. Each card represents a job opening and includes key details such as the company logo, job title, company name, location, employment type, experience level, pay rate per hour, and posting time.
 
-Currently, two official plugins are available:
+The application leverages React components and props to ensure modularity and reusability, making it easy to scale or update job data. Job information is stored in structured JavaScript objects and rendered efficiently using array mapping. The UI is designed to be clean and user-friendly, with proper spacing, typography, and visual hierarchy.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project demonstrates a strong understanding of component-based architecture, state management basics, and frontend UI design principles. It can be extended further by adding features such as filtering by job type, search functionality, API integration, and dark mode support.
 
-## React Compiler
+Technologies Used:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+React.js
 
-## Expanding the ESLint configuration
+JavaScript (ES6+)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+CSS / Tailwind CSS (optional)
+
+Responsive Design Principles
+
+Use Case:
+Ideal for job portals, career pages, or dashboard-style applications.
