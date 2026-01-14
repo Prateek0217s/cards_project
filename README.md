@@ -1,4 +1,4 @@
-📌 Project Description: Job Cards UI using React.js
+ Project Description: Job Cards UI using React.js
 
 This project focuses on building a dynamic and reusable card-based user interface using React.js to display job listings in a modern and responsive layout. Each card represents a job opening and includes key details such as the company logo, job title, company name, location, employment type, experience level, pay rate per hour, and posting time.
 
@@ -10,7 +10,7 @@ Technologies Used:
 
 React.js
 
-JavaScript (ES6+)
+JavaScript
 
 CSS
 
