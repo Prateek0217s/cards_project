@@ -9,12 +9,8 @@ This project demonstrates a strong understanding of component-based architecture
 Technologies Used:
 
 React.js
-
 JavaScript
-
 CSS
-
 Responsive Design Principles
-
 Use Case:
 Ideal for job portals, career pages, or dashboard-style applications.
