@@ -84,16 +84,6 @@ const App = () => {
     location: "Chennai, India"
   },
   {
-    brandLogo: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Meta_Platforms_Inc_logo.svg/1200px-Meta_Platforms_Inc_logo.svg.png",
-    companyName: "Meta",
-    datePosted: "1 week ago",
-    post: "Product Designer",
-    tag1: "Full Time",
-    tag2: "Senior Level",
-    pay: "$62/hr",
-    location: "Gurugram, India"
-  },
-  {
     brandLogo: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Microsoft_logo_%282012%29.svg/1200px-Microsoft_logo_%282012%29.svg.png",
     companyName: "Microsoft",
     datePosted: "2 weeks ago",
